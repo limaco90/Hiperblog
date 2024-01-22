@@ -1,5 +1,6 @@
 body
 {
+<<<<<<< HEAD
     color:black;
     text-align: center;
     font-family: "Arial";
@@ -40,4 +41,9 @@ body
 #post
 {
     padding: len;
+=======
+    color:deeppink;
+    text-align: center;
+    font-family: "Arial";
+>>>>>>> b1cd25678f5b548467f6878dd196e9cbc6f4340c
 }
